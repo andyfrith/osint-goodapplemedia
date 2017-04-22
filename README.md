@@ -1,4 +1,4 @@
-<img src="http://osint.goodapplemedia.com/banner.jpg" alt="banner" align="center" />
+<img src="https://github.com/andyfrith/osint-goodapplemedia/blob/master/banner.jpg" alt="banner" align="center" />
 
 <br />
 
