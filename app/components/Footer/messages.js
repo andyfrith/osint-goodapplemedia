@@ -6,6 +6,10 @@
 import { defineMessages } from 'react-intl';
 
 export default defineMessages({
+  copyrightMessage: {
+    id: 'boilerplate.components.Footer.copyright.message',
+    defaultMessage: '©2017 GOOD APPLE MEDIA, LLC.',
+  },
   licenseMessage: {
     id: 'boilerplate.components.Footer.license.message',
     defaultMessage: 'This project is licensed under the MIT license.',
@@ -13,7 +17,7 @@ export default defineMessages({
   authorMessage: {
     id: 'boilerplate.components.Footer.author.message',
     defaultMessage: `
-      Made with love by {author}.
+      Created by {author} and maintained by {company}.
     `,
   },
 });
